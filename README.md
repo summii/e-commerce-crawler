@@ -1,2 +1,2 @@
 # e-commerce-crawler
-Crawler for flipkart and amazon
+Crawler for boodmo.com
